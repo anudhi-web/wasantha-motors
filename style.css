@@ -314,5 +314,9 @@ margin-top: 53px;
     #brand2{
         margin-top:120px;
     }
+   #brand2{
+        text-align: center;
+        align-items: center;
+    }
  
 }
