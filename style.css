@@ -33,6 +33,7 @@ background: black;
 
 }
 
+
 #justify-content-center{
     margin-top: -50px;
     margin-bottom: 125px;
@@ -224,12 +225,12 @@ letter-spacing: 2px;
 @media (max-width:576px){
     
 #top-right{
-
+padding:25px;
     padding-top: 53px;
     font-family: 'Work Sans', sans-serif;
     font-style: normal;
     font-size: 20px;
-    line-height: 32px;
+    line-height:40x;
     color: white;
     background: black;
     padding-bottom: 53px;
@@ -238,6 +239,7 @@ letter-spacing: 2px;
   
   
     }
+
     .btn{
       height: 40px;
       font-size: 15px;
