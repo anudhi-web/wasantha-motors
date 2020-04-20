@@ -1,0 +1,318 @@
+
+.navbar{
+ background-color: black;
+opacity: 9.7;
+}
+.navbar-nav li{
+    padding-right: 20px;
+}
+.nav-link{
+    font-size: 1.1em !important;
+}
+
+
+
+#section1{
+    background: black;
+}
+
+
+
+
+#top-right{
+
+padding-top: 153px;
+font-family: 'Work Sans', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 52px;
+color: white;
+background: black;
+
+
+}
+
+#justify-content-center{
+    margin-top: -50px;
+    margin-bottom: 125px;
+
+
+    
+}
+
+.col-12{
+    color: #F2F2F2;
+    background: #021E51;
+    margin-right: 31px;
+   width: 100px;
+   height: 288px;
+   height: 232px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   flex-flow: wrap;
+
+  
+
+}
+
+
+
+
+
+
+.text-center-head{
+    font-family: 'Work Sans', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+text-transform: uppercase;
+position: absolute;
+left: 7.09%;
+right: 10.64%;
+top: 7.45%;
+bottom: 84.4%;
+
+
+
+}
+.text-center{
+    position: absolute;
+left: 6.94%;
+right: 12.5%;
+top: 18.1%;
+bottom: 59.48%;
+font-family: 'Work Sans', sans-serif;
+margin-top: 5.8px;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 129%;
+/* or 17px */
+
+text-transform: capitalize;
+}
+
+#box1{
+    margin-left: 116px;
+margin-top: 117px;
+}
+
+
+#box2{
+    width: 201px;
+height: 201px;
+margin-left: 80px;
+margin-top: 110px;
+
+}
+#box3{
+    width: 193px;
+height: 188px;
+margin-left: 95px;
+margin-top: 118px;
+}
+
+#box4{
+    width: 222px;
+height: 167px;
+margin-left:65px;
+margin-top: 125px;
+}
+
+#box5{
+    width: 158px;
+height: 178px;
+margin-left: 120px;
+margin-top: 117px;
+}
+
+.img-fluid{
+    background-image: url(img/3.png);
+    background-size: cover;
+}
+#aboutrow{
+    background-color: black;
+}
+
+#aboutcol{
+background-color: black;
+
+
+}
+#col{
+    font-family: 'Work Sans', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-transform: capitalize;
+color:white;
+margin-top: 20px;
+text-align: center;
+
+}
+
+#about{
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+margin-top: 121px;
+margin-bottom: 20px;
+color: white;
+text-align: center;
+}
+
+#brand1{
+    font-family: 'Work Sans', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 35px;
+text-transform: capitalize;
+margin-top: 73px;
+
+color: #0C40A1;
+}
+#brand2{
+    margin-top:230px;
+}
+
+.footer{
+    background-image: url(img/last.png);
+    
+    width: 1440px;
+    height: 474px;
+}
+#lastlogo{
+margin-top: 130px;
+margin-bottom: 42px;
+}
+.footer-item{
+    text-align: center;
+    color: white;
+   margin-bottom: 5px;
+   font-family: 'Work Sans', sans-serif;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 30px;
+   letter-spacing: 2px;
+
+letter-spacing: 2px;
+
+}
+
+
+
+
+
+
+/*--Media Quries--*/
+@media (max-width:992px){
+   
+}
+
+@media (max-width:768px){
+    
+
+}
+@media (max-width:576px){
+    
+#top-right{
+
+    padding-top: 53px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 32px;
+    color: white;
+    background: black;
+    padding-bottom: 53px;
+    text-align: center;
+
+  
+  
+    }
+    .btn{
+      height: 40px;
+      font-size: 15px;
+    }
+    #section1{
+        background:white;
+    }
+    .col-12{
+        color: #F2F2F2;
+        background: #021E51;
+        margin-right: 31px;
+       width: 100px;
+       height: 288px;
+       height: 232px;
+       display: flex;
+       flex-direction: row;
+       justify-content: space-around;
+       flex-flow: wrap;
+       margin: 45px;
+    }
+    #col{
+        font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    text-transform: capitalize;
+    color:white;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+    
+    }
+    
+    #about{
+        font-family: 'Work Sans', sans-serif;
+        font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 40px;
+    
+    color: white;
+    text-align: center;
+    }
+    #brand3{
+      margin:10px;
+      width: 75px;
+      height: 75px;
+    }
+    .footer-item{
+        text-align: center;
+        color: white;
+       margin-bottom: 10px;
+       font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+       font-weight: 400;
+       font-size: 18px;
+       line-height: 24px;
+    }
+ 
+    #phoneno{
+        margin-bottom: 20px;
+    }
+    #brand1{
+        font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+text-transform: capitalize;
+margin-top: 53px;
+
+    }
+    #brand2{
+        margin-top:120px;
+    }
+ 
+}
