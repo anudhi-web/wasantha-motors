@@ -247,9 +247,13 @@ letter-spacing: 2px;
     padding-bottom: 53px;
     text-align: center;
 
+  }
+ .text-center-head{
+text-align: center;
+
   
-  
-    }
+}
+ 
     .btn{
       height: 40px;
       font-size: 15px;
