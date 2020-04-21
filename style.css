@@ -306,6 +306,7 @@ letter-spacing: 2px;
     #brand2{
         text-align: center;
         align-items: center;
+     margin-top:50px;
     }
     .footer-item{
         text-align: center;
@@ -328,12 +329,10 @@ font-size: 25px;
 line-height: 30px;
 text-transform: capitalize;
 margin-top: 78px;
-margin-bottom: 93px;
+margin-bottom: 53px;
 
     }
-    #brand2{
-  margin-top:50px;
-    }
+ 
 
 
  
